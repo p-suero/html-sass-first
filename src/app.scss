@@ -1,0 +1,8 @@
+$color_default: red;
+$margin_standard : 25px 0;
+
+h2,h3 {
+    color: $color_default;
+    margin: $margin_standard;
+    text-align: center;
+}
